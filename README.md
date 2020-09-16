@@ -9,4 +9,4 @@ Nowadays lot's of spacecraft are launched for various purposes and they are dama
 So, our goal is to find a way, to simply launch bigger missions with less risk and increase the lifeline of spacecraft. And in our research we have found a way to assemble parts of the spacecraft in space.
 
 
-![YouTube](img/youtube_20.png) [Go to our YouTube explanation video](https://youtu.be/QZbPAbgIOr8)
+[![YouTube](img/youtube_20.png) Go to our YouTube explanation video](https://youtu.be/QZbPAbgIOr8)
