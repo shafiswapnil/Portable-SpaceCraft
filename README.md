@@ -1,6 +1,6 @@
 # Portable SpaceCraft | Team Curious
 
-Hello there. We're Team Curious. We are participating in NASA Space Apps Challenge 2020. The name of the project is **Portable SpaceCraft**.
+Hello there. We're **Team Curious**. We are participating in *NASA Space Apps Challenge 2020*. The name of the project is **Portable SpaceCraft**.
 
 ### Short Description of our project
 
