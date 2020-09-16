@@ -3,7 +3,6 @@
 Hello there. We're **Team Curious**. We are participating in *NASA Space Apps Challenge 2020*. The name of the project is **Portable SpaceCraft**.
 
 <br>
-<br>
 
 ### Short Description of our project
 
