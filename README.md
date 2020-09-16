@@ -2,6 +2,9 @@
 
 Hello there. We're **Team Curious**. We are participating in *NASA Space Apps Challenge 2020*. The name of the project is **Portable SpaceCraft**.
 
+<br>
+<br>
+
 ### Short Description of our project
 
 Nowadays lot's of spacecraft are launched for various purposes and they are damaged in many ways. And their replacement is very hard. We thought that, if we can arrange the spacecraft parts in the space, then it will decrease the potential damage rate and inactivity of a spacecraft.
